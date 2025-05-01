@@ -12,3 +12,5 @@
 
 **This text is bolded**
 *This text is italic*
+
+[this is the text of a link](http://www.google.com)
